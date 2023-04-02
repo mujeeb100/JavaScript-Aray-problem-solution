@@ -8,3 +8,8 @@ let result = string1.concat(String2);
 
 console.log(result);
 
+//  with the help if push method of JS
+let arr=[1,2,3,4,5,6,7,8,9]
+arr.push(9,8,7,8,8,8,8,8,8,8);
+console.log(arr);
+
